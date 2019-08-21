@@ -10,3 +10,7 @@ Analysis and Visualization, involves
 (ii) Applying classical big data analytic
 method of MapReduce to the unstructured data collected, and 
 (iii) building a visualization data product.
+
+Part1-> Data Collection
+Part2->The second part of project involves (i) aggregating data from multiple sources (ii) process using bug data methods and (iii)visual rending for review and decision making. 
+Part3->
