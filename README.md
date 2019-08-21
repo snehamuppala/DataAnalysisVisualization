@@ -13,4 +13,7 @@ method of MapReduce to the unstructured data collected, and
 
 Part1-> Data Collection
 Part2->The second part of project involves (i) aggregating data from multiple sources (ii) process using bug data methods and (iii)visual rending for review and decision making. 
-Part3->
+Part3-> Code and execute MapReduce word count on each of the data sets. Map will clean and parse
+the data sets into words, remove stop words, and reduce will count the useful words. Review and visually compare the output
+for representative words about the topic. You may have to change the search word, obtain new
+sets of data that may comparable sets of output words.
