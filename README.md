@@ -2,7 +2,7 @@
 
 Automated the data collection from Twitter, NY times and Common Crawl using respective APIs, processed the data using the MapReduce algorithm by storing the data on the Hadoop infrastructure (HDFS) and visualized Word Cloud using Tableau. The project was implemented for the course CSE487 Data Intensive computing under the prof. Bina Ramamurthy.
 
-Problem Descriptiobn : https://cse.buffalo.edu/~bina/cse487/spring2018/Lab2/lab2March4.pdf
+Problem Description : https://cse.buffalo.edu/~bina/cse487/spring2018/Lab2/lab2March4.pdf
 
 ## Introduction
 
